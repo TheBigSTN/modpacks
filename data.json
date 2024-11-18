@@ -1,7 +1,7 @@
 [
     {
-        "name":"immersive-create",
-        "path":"not yet",
+        "name":"create",
+        "path":"immersivecrafting",
         "versions":[
             "1.0.0"
         ]
