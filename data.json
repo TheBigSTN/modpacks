@@ -1,6 +1,10 @@
 [
     {
-        "modpackname":"immersive-create",
-        "branchname":"immersive"
+        "modpackname": "immersive-create",
+        "branchname": "immersive",
+        "mcversion": "1.20.1",
+        "gitversion": 1,
+        "hastlauncerdef": false,
+        "hasbranch": true
     }
 ]
