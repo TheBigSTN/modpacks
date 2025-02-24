@@ -82,10 +82,7 @@
           "favorite": false,
           "categories": [],
           "picture": 73988,
-          "pictures": [
-            73989,
-            73990
-          ],
+          "pictures": [73989, 73990],
           "lanName": "tl-skin-and-cape",
           "version": {
             "id": 11005070,
@@ -172,14 +169,7 @@
             }
           ],
           "picture": 821279,
-          "pictures": [
-            508848,
-            508849,
-            391476,
-            508851,
-            422568,
-            508850
-          ],
+          "pictures": [508848, 508849, 391476, 508851, 422568, 508850],
           "lanName": "ad-astra",
           "version": {
             "id": 5116766,
@@ -301,17 +291,8 @@
           ],
           "picture": 808859,
           "pictures": [
-            385036,
-            385035,
-            519226,
-            877141,
-            385030,
-            527357,
-            385034,
-            385031,
-            385032,
-            385033,
-            385029
+            385036, 385035, 519226, 877141, 385030, 527357, 385034, 385031,
+            385032, 385033, 385029
           ],
           "lanName": "ad-astra-giselle-addon",
           "version": {
@@ -693,13 +674,7 @@
             }
           ],
           "picture": 927900,
-          "pictures": [
-            527347,
-            551051,
-            527346,
-            527349,
-            551052
-          ],
+          "pictures": [527347, 551051, 527346, 527349, 551052],
           "lanName": "bellsandwhistles",
           "version": {
             "id": 4860141,
@@ -858,27 +833,9 @@
           ],
           "picture": 787483,
           "pictures": [
-            369759,
-            369762,
-            369766,
-            369755,
-            369767,
-            369754,
-            369757,
-            369765,
-            369763,
-            369764,
-            369771,
-            369773,
-            369772,
-            369770,
-            369758,
-            369753,
-            369761,
-            369769,
-            369760,
-            369768,
-            369756
+            369759, 369762, 369766, 369755, 369767, 369754, 369757, 369765,
+            369763, 369764, 369771, 369773, 369772, 369770, 369758, 369753,
+            369761, 369769, 369760, 369768, 369756
           ],
           "lanName": "biomes-o-plenty",
           "version": {
@@ -1030,14 +987,7 @@
           ],
           "picture": 821163,
           "pictures": [
-            227162,
-            226649,
-            227165,
-            226648,
-            226651,
-            227163,
-            227164,
-            226647,
+            227162, 226649, 227165, 226648, 226651, 227163, 227164, 226647,
             226650
           ],
           "lanName": "chipped",
@@ -1121,34 +1071,9 @@
           ],
           "picture": 821259,
           "pictures": [
-            17212,
-            17356,
-            17195,
-            17202,
-            17222,
-            17340,
-            17228,
-            17205,
-            17318,
-            17260,
-            17234,
-            17350,
-            17267,
-            17281,
-            17290,
-            17294,
-            17332,
-            17301,
-            17251,
-            17326,
-            17245,
-            17305,
-            17367,
-            17344,
-            17215,
-            17310,
-            17270,
-            17348
+            17212, 17356, 17195, 17202, 17222, 17340, 17228, 17205, 17318,
+            17260, 17234, 17350, 17267, 17281, 17290, 17294, 17332, 17301,
+            17251, 17326, 17245, 17305, 17367, 17344, 17215, 17310, 17270, 17348
           ],
           "lanName": "chisels-bits",
           "version": {
@@ -1279,10 +1204,7 @@
             }
           ],
           "picture": 800336,
-          "pictures": [
-            721979,
-            721978
-          ],
+          "pictures": [721979, 721978],
           "lanName": "copycats",
           "version": {
             "id": 5725773,
@@ -1587,15 +1509,7 @@
             }
           ],
           "picture": 800691,
-          "pictures": [
-            602229,
-            639049,
-            639050,
-            602228,
-            639048,
-            639051,
-            639052
-          ],
+          "pictures": [602229, 639049, 639050, 602228, 639048, 639051, 639052],
           "lanName": "create-connected",
           "version": {
             "id": 5804988,
@@ -1836,15 +1750,7 @@
             }
           ],
           "picture": 821172,
-          "pictures": [
-            287815,
-            513963,
-            218287,
-            207637,
-            376337,
-            254131,
-            426309
-          ],
+          "pictures": [287815, 513963, 218287, 207637, 376337, 254131, 426309],
           "lanName": "createaddition",
           "version": {
             "id": 5658602,
@@ -2225,17 +2131,8 @@
           ],
           "picture": 844303,
           "pictures": [
-            361880,
-            411190,
-            361881,
-            452419,
-            521994,
-            411191,
-            429985,
-            429986,
-            452420,
-            429983,
-            521995
+            361880, 411190, 361881, 452419, 521994, 411191, 429985, 429986,
+            452420, 429983, 521995
           ],
           "lanName": "endless-biomes",
           "version": {
@@ -2366,14 +2263,7 @@
             }
           ],
           "picture": 821137,
-          "pictures": [
-            315672,
-            315670,
-            315668,
-            315671,
-            315667,
-            315669
-          ],
+          "pictures": [315672, 315670, 315668, 315671, 315667, 315669],
           "lanName": "farmers-delight",
           "version": {
             "id": 5878214,
@@ -2978,19 +2868,8 @@
           ],
           "picture": 778705,
           "pictures": [
-            75533,
-            75535,
-            161216,
-            161213,
-            75537,
-            161219,
-            161217,
-            75536,
-            161218,
-            389698,
-            75534,
-            161214,
-            161215
+            75533, 75535, 161216, 161213, 75537, 161219, 161217, 75536, 161218,
+            389698, 75534, 161214, 161215
           ],
           "lanName": "jade",
           "version": {
@@ -3152,12 +3031,7 @@
             }
           ],
           "picture": 821131,
-          "pictures": [
-            24074,
-            24089,
-            24081,
-            24069
-          ],
+          "pictures": [24074, 24089, 24081, 24069],
           "lanName": "jei",
           "version": {
             "id": 5846810,
@@ -3538,16 +3412,7 @@
             }
           ],
           "picture": 808849,
-          "pictures": [
-            28698,
-            28716,
-            28702,
-            28709,
-            28711,
-            28693,
-            28704,
-            28721
-          ],
+          "pictures": [28698, 28716, 28702, 28709, 28711, 28693, 28704, 28721],
           "lanName": "mekanism",
           "version": {
             "id": 5662583,
@@ -3797,13 +3662,7 @@
             }
           ],
           "picture": 847284,
-          "pictures": [
-            610330,
-            610326,
-            610329,
-            610327,
-            610328
-          ],
+          "pictures": [610330, 610326, 610329, 610327, 610328],
           "lanName": "mekanism-ad-astra-ores",
           "version": {
             "id": 5402760,
@@ -4032,17 +3891,8 @@
           ],
           "picture": 845996,
           "pictures": [
-            240691,
-            240688,
-            240689,
-            240686,
-            240684,
-            240690,
-            272106,
-            240687,
-            240683,
-            240685,
-            240692
+            240691, 240688, 240689, 240686, 240684, 240690, 272106, 240687,
+            240683, 240685, 240692
           ],
           "lanName": "more-mekanism-processing",
           "version": {
@@ -4564,9 +4414,7 @@
             }
           ],
           "picture": 920863,
-          "pictures": [
-            920865
-          ],
+          "pictures": [920865],
           "lanName": "sodium-options-api",
           "version": {
             "id": 5857609,
@@ -4725,10 +4573,7 @@
             }
           ],
           "picture": 894588,
-          "pictures": [
-            378138,
-            378139
-          ],
+          "pictures": [378138, 378139],
           "lanName": "create-steam-n-rails",
           "version": {
             "id": 5840017,
@@ -4811,10 +4656,7 @@
             }
           ],
           "picture": 845887,
-          "pictures": [
-            558508,
-            389312
-          ],
+          "pictures": [558508, 389312],
           "lanName": "star-wars-planets-ad-astra",
           "version": {
             "id": 5706915,
@@ -5016,10 +4858,7 @@
             }
           ],
           "picture": 800308,
-          "pictures": [
-            159043,
-            157569
-          ],
+          "pictures": [159043, 157569],
           "lanName": "toms-storage",
           "version": {
             "id": 5548573,
@@ -5203,48 +5042,12 @@
           ],
           "picture": 800219,
           "pictures": [
-            222904,
-            270766,
-            244825,
-            270755,
-            24513,
-            222894,
-            270754,
-            222896,
-            270756,
-            222902,
-            24519,
-            270769,
-            222898,
-            270758,
-            270770,
-            270760,
-            270765,
-            222899,
-            222911,
-            222909,
-            244824,
-            222908,
-            270761,
-            222903,
-            222906,
-            222907,
-            270767,
-            270759,
-            270763,
-            270764,
-            270768,
-            222897,
-            222910,
-            270762,
-            222895,
-            222905,
-            57419,
-            222892,
-            222900,
-            222893,
-            222901,
-            270757
+            222904, 270766, 244825, 270755, 24513, 222894, 270754, 222896,
+            270756, 222902, 24519, 270769, 222898, 270758, 270770, 270760,
+            270765, 222899, 222911, 222909, 244824, 222908, 270761, 222903,
+            222906, 222907, 270767, 270759, 270763, 270764, 270768, 222897,
+            222910, 270762, 222895, 222905, 57419, 222892, 222900, 222893,
+            222901, 270757
           ],
           "lanName": "corail-tombstone",
           "version": {
@@ -5560,9 +5363,7 @@
             }
           ],
           "picture": 787442,
-          "pictures": [
-            227715
-          ],
+          "pictures": [227715],
           "lanName": "ars-nouveau",
           "version": {
             "id": 5894609,
@@ -5630,20 +5431,8 @@
           ],
           "picture": 800472,
           "pictures": [
-            64594,
-            489036,
-            400318,
-            59368,
-            400320,
-            400323,
-            400319,
-            400321,
-            60413,
-            250736,
-            60414,
-            250737,
-            250735,
-            400322
+            64594, 489036, 400318, 59368, 400320, 400323, 400319, 400321, 60413,
+            250736, 60414, 250737, 250735, 400322
           ],
           "lanName": "effortless-building",
           "version": {
@@ -5690,6 +5479,301 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 580555,
+          "name": "EMI",
+          "author": "emilyploszaj",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/emi",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 800369,
+          "pictures": [472326, 472327],
+          "lanName": "emi",
+          "version": {
+            "id": 5872526,
+            "name": "emi-1.1.18+1.20.1+forge",
+            "updateDate": 1730664820000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "0f4cf0d51db37dca3213bb22ed483a945f9206f6",
+              "size": 1020776,
+              "path": "mods/emi-1.1.18+1.20.1+forge.jar",
+              "url": "/mods/580555/5872526/emi-1.1.18+1.20.1+forge.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1730592000000,
+          "update": 1730592000000,
+          "downloadALL": 82189,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 74924,
+          "name": "Mantle",
+          "author": "mDiyo progwml6 bonusboni Alexbegt fuj1n Arkan",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mantle",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821198,
+          "pictures": [22824],
+          "lanName": "mantle",
+          "version": {
+            "id": 6105891,
+            "name": "Mantle-1.20.1-1.11.36",
+            "updateDate": 1737358816000,
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "5ccb2f86c2b706c8f26e8b25410ea15160859888",
+              "size": 1302418,
+              "path": "mods/Mantle-1.20.1-1.11.36.jar",
+              "url": "/mods/74924/6105891/Mantle-1.20.1-1.11.36.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 1174,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1737320400000,
+          "update": 1737320400000,
+          "downloadALL": 3248602,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 74072,
+          "name": "Tinkers Construct",
+          "author": "mDiyo Jadedcat KnightMiner bonusboni",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 30,
+              "name": "technology_processing",
+              "shortName": "processing",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 821253,
+          "pictures": [
+            270995, 270996, 270994, 270997, 270999, 271001, 271000, 23173,
+            270998
+          ],
+          "lanName": "tinkers-construct",
+          "version": {
+            "id": 6111032,
+            "name": "TConstruct-1.20.1-3.9.1.19",
+            "updateDate": 1737490028000,
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "e8698547c1392513b6a6f443fa9db8779b97d903",
+              "size": 18509419,
+              "path": "mods/TConstruct-1.20.1-3.9.1.19.jar",
+              "url": "/mods/74072/6111032/TConstruct-1.20.1-3.9.1.19.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 8178,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 74,
+              "name": "Mantle",
+              "gameEntityId": 74924,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1737406800000,
+          "update": 1737406800000,
+          "downloadALL": 7932476,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1143382,
+          "name": "Tinkers Construct Structures",
+          "author": "Project_Count",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct-structures",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 946784,
+          "pictures": [983156, 983159, 983158, 983157, 983155],
+          "lanName": "tinkers-construct-structures",
+          "version": {
+            "id": 6135017,
+            "name": "tinkersconstructstructures-1.0.1-1.20.1",
+            "updateDate": 1738102495000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 46,
+                "name": "1.20.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "dd55be748de0550921dc9c9383b280de4c49b596",
+              "size": 38174,
+              "path": "mods/tinkersconstructstructures-1.0.1-1.20.1.jar",
+              "url": "/mods/1143382/6135017/tinkersconstructstructures-1.0.1-1.20.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1738011600000,
+          "update": 1738011600000,
+          "downloadALL": 1319,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
