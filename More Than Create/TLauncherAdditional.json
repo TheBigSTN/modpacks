@@ -5107,79 +5107,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 472521,
-          "name": "Lightman's Currency",
-          "author": "lightman314",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lightmans-currency",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 22,
-              "name": "mc_miscellaneous",
-              "shortName": "mixed",
-              "nesting": 0
-            },
-            {
-              "id": 25,
-              "name": "redstone",
-              "shortName": "redstone",
-              "nesting": 0
-            }
-          ],
-          "picture": 845212,
-          "pictures": [],
-          "lanName": "lightmans-currency",
-          "version": {
-            "id": 6551539,
-            "name": "lightmanscurrency-1.21-2.2.5.3a",
-            "updateDate": 1747779544000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "860e0caf6cc57a4200d001b8b81cdb9a37b3e602",
-              "size": 5022648,
-              "path": "mods/lightmanscurrency-1.21-2.2.5.3a.jar",
-              "url": "/mods/472521/6551539/lightmanscurrency-1.21-2.2.5.3a.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 472,
-              "name": "Curios API (ForgeNeoForge)",
-              "gameEntityId": 309927,
-              "dependencyType": "optional"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1747688400000,
-          "update": 1747688400000,
-          "downloadALL": 48283,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 548152,
           "name": "Lightman's Currency Tech",
           "author": "lightman314",
@@ -5571,6 +5498,101 @@
           "updated": 1743195600000,
           "update": 1743195600000,
           "downloadALL": 17472284,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -420015523186800,
+          "name": "veteransmp-0.0.1",
+          "favorite": false,
+          "version": {
+            "id": -420015524041700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f3d785ed7b9d268baee544aaadd33f8e7af6bc44",
+              "size": 37512,
+              "path": "mods/veteransmp-0.0.1.jar",
+              "url": "mods/veteransmp-0.0.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 472521,
+          "name": "Lightman's Currency",
+          "author": "lightman314",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lightmans-currency",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 25,
+              "name": "redstone",
+              "shortName": "redstone",
+              "nesting": 0
+            }
+          ],
+          "picture": 845212,
+          "pictures": [],
+          "lanName": "lightmans-currency",
+          "version": {
+            "id": 6553952,
+            "name": "lightmanscurrency-1.21-2.2.5.3b",
+            "updateDate": 1747856988000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "791f9417b46ffc9455bea754d1dd42c7ec3a56e5",
+              "size": 6555992,
+              "path": "mods/lightmanscurrency-1.21-2.2.5.3b.jar",
+              "url": "/mods/472521/6553952/lightmanscurrency-1.21-2.2.5.3b.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 472,
+              "name": "Curios API (ForgeNeoForge)",
+              "gameEntityId": 309927,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1747774800000,
+          "update": 1747774800000,
+          "downloadALL": 48363,
           "available": true,
           "parser": true,
           "totalComments": 0,
