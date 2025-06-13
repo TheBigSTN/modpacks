@@ -5505,28 +5505,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": -420015523186800,
-          "name": "veteransmp-0.0.1",
-          "favorite": false,
-          "version": {
-            "id": -420015524041700,
-            "name": "1.0",
-            "metadata": {
-              "sha1": "f3d785ed7b9d268baee544aaadd33f8e7af6bc44",
-              "size": 37512,
-              "path": "mods/veteransmp-0.0.1.jar",
-              "url": "mods/veteransmp-0.0.1.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 472521,
           "name": "Lightman's Currency",
           "author": "lightman314",
@@ -5786,6 +5764,122 @@
           "parser": false,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -191526655401200,
+          "name": "veteransmp-0.0.3",
+          "favorite": false,
+          "version": {
+            "id": -191526678404800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "603e3cd55aabd2dc1a6166ecad4aeac8d22e496c",
+              "size": 99129,
+              "path": "mods/veteransmp-0.0.3.jar",
+              "url": "mods/veteransmp-0.0.3.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 936020,
+          "name": "Create Power Loader",
+          "author": "Lysine Lysine",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-power-loader",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 30,
+              "name": "technology_processing",
+              "shortName": "processing",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 800685,
+          "pictures": [
+            577115,
+            577111,
+            585695,
+            802901,
+            577112,
+            577110,
+            585696,
+            585697
+          ],
+          "lanName": "create-power-loader",
+          "version": {
+            "id": 6549980,
+            "name": "create_power_loader-2.0.3-mc1.21.1",
+            "updateDate": 1747737378000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "d7197ab489c30761dadfb7ef963b99bc8d505df1",
+              "size": 404692,
+              "path": "mods/create_power_loader-2.0.3-mc1.21.1.jar",
+              "url": "/mods/936020/6549980/create_power_loader-2.0.3-mc1.21.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1747688400000,
+          "update": 1747688400000,
+          "downloadALL": 16234,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [
