@@ -5767,28 +5767,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": -191526655401200,
-          "name": "veteransmp-0.0.3",
-          "favorite": false,
-          "version": {
-            "id": -191526678404800,
-            "name": "1.0",
-            "metadata": {
-              "sha1": "603e3cd55aabd2dc1a6166ecad4aeac8d22e496c",
-              "size": 99129,
-              "path": "mods/veteransmp-0.0.3.jar",
-              "url": "mods/veteransmp-0.0.3.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 936020,
           "name": "Create Power Loader",
           "author": "Lysine Lysine",
@@ -5877,6 +5855,275 @@
           "updated": 1747688400000,
           "update": 1747688400000,
           "downloadALL": 16234,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -246478381649500,
+          "name": "veteransmp-0.0.4",
+          "favorite": false,
+          "version": {
+            "id": -246478391175800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "748633e75060462b6efa25b299e4afaac710d349",
+              "size": 109460,
+              "path": "mods/veteransmp-0.0.4.jar",
+              "url": "mods/veteransmp-0.0.4.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 968398,
+          "name": "Create Copycats+",
+          "author": "Lysine",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/copycats",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 800336,
+          "pictures": [
+            1021438,
+            1021437,
+            1021435,
+            1021439,
+            1021436
+          ],
+          "lanName": "copycats",
+          "version": {
+            "id": 6601966,
+            "name": "copycats-3.0.1+mc.1.21.1-neoforge",
+            "updateDate": 1748704873000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "6b55fd8d430af1acdb6f5b55e9a34c27552b712d",
+              "size": 1785616,
+              "path": "mods/copycats-3.0.1+mc.1.21.1-neoforge.jar",
+              "url": "/mods/968398/6601966/copycats-3.0.1+mc.1.21.1-neoforge.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1741467600000,
+          "update": 1741467600000,
+          "downloadALL": 171824,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 947914,
+          "name": "Create Connected",
+          "author": "Lysine Lysine",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-connected",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 800691,
+          "pictures": [
+            639051,
+            639048,
+            639049,
+            639050,
+            639052,
+            602228,
+            602229
+          ],
+          "lanName": "create-connected",
+          "version": {
+            "id": 6629575,
+            "name": "create_connected-1.1.4-mc1.21.1",
+            "updateDate": 1749389079000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "77f174a68122c476665e00e93e72549ebfa9a09a",
+              "size": 6553014,
+              "path": "mods/create_connected-1.1.4-mc1.21.1.jar",
+              "url": "/mods/947914/6629575/create_connected-1.1.4-mc1.21.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1749330000000,
+          "update": 1749330000000,
+          "downloadALL": 174735,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 953126,
+          "name": "Create Framed",
+          "author": "DakotaPrideModding DakotaPrideModding",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-framed",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 800591,
+          "pictures": [
+            604454,
+            604452,
+            604453,
+            604455
+          ],
+          "lanName": "create-framed",
+          "version": {
+            "id": 6619543,
+            "name": "createframed-1.21.1-1.6.6",
+            "updateDate": 1749172155000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "26d5f1cb4f5dfe64b0dadc2696bbd377521f0877",
+              "size": 1626316,
+              "path": "mods/createframed-1.21.1-1.6.6.jar",
+              "url": "/mods/953126/6619543/createframed-1.21.1-1.6.6.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1747688400000,
+          "update": 1747688400000,
+          "downloadALL": 25402,
           "available": true,
           "parser": true,
           "totalComments": 0
