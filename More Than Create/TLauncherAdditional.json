@@ -360,67 +360,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 953729,
-          "name": "Create Oxidized",
-          "author": "pyzpre pyzpre",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-oxidized",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 846141,
-          "pictures": [
-            849774,
-            849775
-          ],
-          "lanName": "create-oxidized",
-          "version": {
-            "id": 6286593,
-            "name": "create_oxidized-0.1.3",
-            "updateDate": 1741565332000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "fe93a9575174b4993cf3fb5f2aed4dd4431096ee",
-              "size": 121297,
-              "path": "mods/create_oxidized-0.1.3.jar",
-              "url": "/mods/953729/6286593/create_oxidized-0.1.3.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1741554000000,
-          "update": 1741554000000,
-          "downloadALL": 3947,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 263420,
           "name": "Xaero's Minimap",
           "author": "xaero96",
@@ -3073,83 +3012,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 328085,
-          "name": "Create",
-          "author": "simibubi",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 25,
-              "name": "redstone",
-              "shortName": "redstone",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            },
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            }
-          ],
-          "picture": 894587,
-          "pictures": [],
-          "lanName": "create",
-          "version": {
-            "id": 6323264,
-            "name": "create-1.21.1-6.0.4",
-            "updateDate": 1742414410000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "bc80090bf92eccb97aae063f7ac13ae60cb83fc6",
-              "size": 18294595,
-              "path": "mods/create-1.21.1-6.0.4.jar",
-              "url": "/mods/328085/6323264/create-1.21.1-6.0.4.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 3216,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1742331600000,
-          "update": 1742331600000,
-          "downloadALL": 7120601,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 582327,
           "name": "Server Performance - Smooth Chunk Save[ForgeFabric]",
           "author": "someaddon",
@@ -3865,478 +3727,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": -314136444026000,
-          "name": "create_vibrant_vaults-0.3.2",
-          "favorite": false,
-          "version": {
-            "id": -314136454162700,
-            "name": "1.0",
-            "metadata": {
-              "sha1": "d0dbdde6318c4dd4ede1d2c091f1a64896ba872a",
-              "size": 2687938,
-              "path": "mods/create_vibrant_vaults-0.3.2.jar",
-              "url": "mods/create_vibrant_vaults-0.3.2.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1061749,
-          "name": "Create Enchantable Machinery",
-          "author": "Cotrin",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-enchantable-machinery",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1102660,
-          "pictures": [
-            899885,
-            899883,
-            899884
-          ],
-          "lanName": "create-enchantable-machinery",
-          "version": {
-            "id": 6514812,
-            "name": "createenchantablemachinery-3.3.4+mc1.21.1-neoforge",
-            "updateDate": 1746854863000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "8912d900202fd9d3fdbc98642fcbf53b66518b28",
-              "size": 570336,
-              "path": "mods/createenchantablemachinery-3.3.4+mc1.21.1-neoforge.jar",
-              "url": "/mods/1061749/6514812/createenchantablemachinery-3.3.4+mc1.21.1-neoforge.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 769,
-              "name": "Create",
-              "gameEntityId": 328085,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 1361,
-              "name": "Kotlin for Forge",
-              "gameEntityId": 351264,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1746824400000,
-          "update": 1746824400000,
-          "downloadALL": 4182,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1010066,
-          "name": "Create Structures Arise",
-          "author": "SmartStreamLabs",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-structures-arise",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 898789,
-          "pictures": [
-            899480,
-            1004202,
-            1004207,
-            1026575,
-            1026573,
-            899479,
-            899477,
-            899483,
-            899482,
-            1004200,
-            1026574,
-            1004198,
-            1004196,
-            1004205,
-            1004194,
-            1004204,
-            1085425,
-            899481,
-            899478,
-            1004192,
-            1105766,
-            1004193,
-            1004195,
-            1004203,
-            1004201,
-            1004208,
-            1004206,
-            1004199,
-            1004197
-          ],
-          "lanName": "create-structures-arise",
-          "version": {
-            "id": 6528439,
-            "name": "create_structures_arise-158.31.30-neoforge-1.21.1",
-            "updateDate": 1747212871000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 52,
-                "name": "1.21"
-              },
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "701c2b1045dd82908055f0918b02f3af44d58214",
-              "size": 1485366,
-              "path": "mods/create_structures_arise-158.31.30-neoforge-1.21.1.jar",
-              "url": "/mods/1010066/6528439/create_structures_arise-158.31.30-neoforge-1.21.1.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 3400,
-              "name": "Create Fabric",
-              "gameEntityId": 624165,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 4822,
-              "name": "Lootr (Forge & NeoForge)",
-              "gameEntityId": 361276,
-              "dependencyType": "optional"
-            },
-            {
-              "gameType": "mod",
-              "id": 2,
-              "name": "Fabric API",
-              "gameEntityId": 306612,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 769,
-              "name": "Create",
-              "gameEntityId": 328085,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1747170000000,
-          "update": 1747170000000,
-          "downloadALL": 36564,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 1216624,
-          "name": "Create Dragons Plus",
-          "author": "DragonsPlus",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-dragons-plus",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            },
-            {
-              "id": 30,
-              "name": "technology_processing",
-              "shortName": "processing",
-              "nesting": 0
-            },
-            {
-              "id": 20,
-              "name": "technology_item_fluid_energy_transport",
-              "shortName": "fluid",
-              "nesting": 0
-            },
-            {
-              "id": 7,
-              "name": "library_api",
-              "shortName": "api",
-              "nesting": 0
-            }
-          ],
-          "picture": 1074556,
-          "pictures": [],
-          "lanName": "create-dragons-plus",
-          "version": {
-            "id": 6518341,
-            "name": "create-dragons-plus-1.5.0",
-            "updateDate": 1746942803000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "e9eb542d34f8c14f0ac400274b8a21a36c046030",
-              "size": 635189,
-              "path": "mods/create-dragons-plus-1.5.0.jar",
-              "url": "/mods/1216624/6518341/create-dragons-plus-1.5.0.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 769,
-              "name": "Create",
-              "gameEntityId": 328085,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1746910800000,
-          "update": 1746910800000,
-          "downloadALL": 1308,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 688768,
-          "name": "Create Enchantment Industry",
-          "author": "dragons_plus",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 83,
-              "name": "storage",
-              "shortName": "storage",
-              "nesting": 0
-            },
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1091514,
-          "pictures": [],
-          "lanName": "create-enchantment-industry",
-          "version": {
-            "id": 6534111,
-            "name": "create-enchantment-industry-2.1.4",
-            "updateDate": 1747354933000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "b89079989c973a26450aab9e81cb816f89554dad",
-              "size": 643674,
-              "path": "mods/create-enchantment-industry-2.1.4.jar",
-              "url": "/mods/688768/6534111/create-enchantment-industry-2.1.4.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 13152,
-              "name": "Create Dragons Plus",
-              "gameEntityId": 1216624,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1746997200000,
-          "update": 1746997200000,
-          "downloadALL": 249183,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 820977,
-          "name": "Create Central Kitchen",
-          "author": "dragons_plus",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            },
-            {
-              "id": 24,
-              "name": "mc_food",
-              "shortName": "food",
-              "nesting": 0
-            }
-          ],
-          "picture": 1104371,
-          "pictures": [],
-          "lanName": "create-central-kitchen",
-          "version": {
-            "id": 6518339,
-            "name": "create-central-kitchen-2.0.2",
-            "updateDate": 1746942789000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "9db13694fdff38534428d7f0c0594514247291e9",
-              "size": 214307,
-              "path": "mods/create-central-kitchen-2.0.2.jar",
-              "url": "/mods/820977/6518339/create-central-kitchen-2.0.2.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1746997200000,
-          "update": 1746997200000,
-          "downloadALL": 78352,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 398521,
           "name": "Farmer's Delight",
           "author": "vectorwing",
@@ -4700,87 +4090,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 466792,
-          "name": "Create Stuff 'N Additions",
-          "author": "furti_two",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 1012597,
-          "pictures": [
-            218900
-          ],
-          "lanName": "create-stuff-additions",
-          "version": {
-            "id": 6448012,
-            "name": "create-stuff-additions1.21.1_v2.1.0e",
-            "updateDate": 1745242978000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "5de330acd44af9e09430a7710687ad176dabf1e2",
-              "size": 1318700,
-              "path": "mods/create-stuff-additions1.21.1_v2.1.0e.jar",
-              "url": "/mods/466792/6448012/create-stuff-additions1.21.1_v2.1.0e.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 769,
-              "name": "Create",
-              "gameEntityId": 328085,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1744491600000,
-          "update": 1744491600000,
-          "downloadALL": 929892,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 570431,
           "name": "Trade Cycling",
           "author": "henkelmax",
@@ -5036,77 +4345,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 1232978,
-          "name": "Create Mobile Packages",
-          "author": "timplay33",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-mobile-packages",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 83,
-              "name": "storage",
-              "shortName": "storage",
-              "nesting": 0
-            }
-          ],
-          "picture": 1071985,
-          "pictures": [
-            1072080,
-            1072081,
-            1072083,
-            1072082
-          ],
-          "lanName": "create-mobile-packages",
-          "version": {
-            "id": 6484016,
-            "name": "create_mobile_packages-1.21.1-0.4.4",
-            "updateDate": 1746110248000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "a45834b817da0c07cfd11471f6f8ffd7337735c9",
-              "size": 189471,
-              "path": "mods/create_mobile_packages-1.21.1-0.4.4.jar",
-              "url": "/mods/1232978/6484016/create_mobile_packages-1.21.1-0.4.4.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 769,
-              "name": "Create",
-              "gameEntityId": 328085,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1744318800000,
-          "update": 1744318800000,
-          "downloadALL": 303,
-          "available": true,
-          "parser": true,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 548152,
           "name": "Lightman's Currency Tech",
           "author": "lightman314",
@@ -5167,84 +4405,6 @@
           "updated": 1747688400000,
           "update": 1747688400000,
           "downloadALL": 1018,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 439890,
-          "name": "Create Crafts & Additions",
-          "author": "mrhminer",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 20,
-              "name": "technology_item_fluid_energy_transport",
-              "shortName": "fluid",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            },
-            {
-              "id": 12,
-              "name": "technology_energy",
-              "shortName": "energy",
-              "nesting": 0
-            }
-          ],
-          "picture": 821172,
-          "pictures": [
-            287815,
-            254131,
-            426309,
-            376337,
-            207637,
-            513963,
-            218287
-          ],
-          "lanName": "createaddition",
-          "version": {
-            "id": 6445614,
-            "name": "createaddition-1.4.2",
-            "updateDate": 1745183747000,
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "dbb2a6d5cf509da8c460d1ffe57db06c5272070f",
-              "size": 1634683,
-              "path": "mods/createaddition-1.4.2.jar",
-              "url": "/mods/439890/6445614/createaddition-1.4.2.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 286,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1741986000000,
-          "update": 1741986000000,
-          "downloadALL": 1631771,
           "available": true,
           "parser": true,
           "totalComments": 0,
@@ -5349,96 +4509,6 @@
           "available": true,
           "parser": true,
           "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": 655608,
-          "name": "Create Jetpack",
-          "author": "possible_triangle",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-jetpack",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            },
-            {
-              "id": 26,
-              "name": "mc_addons",
-              "shortName": "addons",
-              "nesting": 0
-            }
-          ],
-          "picture": 844249,
-          "pictures": [
-            526691,
-            526693,
-            526692
-          ],
-          "lanName": "create-jetpack",
-          "version": {
-            "id": 6547584,
-            "name": "create_jetpack-forge-5.0.1",
-            "updateDate": 1747669567000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "0a2b8901e8d20decb629ea38956e536a28e365ea",
-              "size": 214767,
-              "path": "mods/create_jetpack-forge-5.0.1.jar",
-              "url": "/mods/655608/6547584/create_jetpack-forge-5.0.1.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 769,
-              "name": "Create",
-              "gameEntityId": 328085,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 1361,
-              "name": "Kotlin for Forge",
-              "gameEntityId": 351264,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1747602000000,
-          "update": 1747602000000,
-          "downloadALL": 103178,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
         },
         {
           "stateGameElement": "active",
@@ -5883,6 +4953,1235 @@
         },
         {
           "stateGameElement": "active",
+          "id": 248787,
+          "name": "AppleSkin",
+          "author": "squeek502",
+          "uuid": "dfb0b67e-cae4-11ec-b2ce-f02f74958c02",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 821134,
+          "pictures": [],
+          "lanName": "appleskin",
+          "version": {
+            "id": 6616291,
+            "name": "appleskin-neoforge-mc1.21-3.0.7",
+            "updateDate": 1749098624000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "8f76d97a7f61f8d61db6d84a83baf29a3bb56330",
+              "size": 74100,
+              "path": "mods/appleskin-neoforge-mc1.21-3.0.7.jar",
+              "url": "/mods/248787/6616291/appleskin-neoforge-mc1.21-3.0.7.jar"
+            },
+            "installed": 5035,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 7231,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 61,
+            "name": "1.21.6"
+          },
+          "updated": 1750453200000,
+          "update": 1750453200000,
+          "downloadALL": 12869191,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1072349,
+          "name": "Create Pattern Schematics",
+          "author": "CakeIsTastyDeveloper",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-pattern-schematics",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            }
+          ],
+          "picture": 916290,
+          "pictures": [
+            899413,
+            899411,
+            899410,
+            899412,
+            899414,
+            1007422
+          ],
+          "lanName": "create-pattern-schematics",
+          "version": {
+            "id": 6647183,
+            "name": "create_pattern_schematics-2.0.9",
+            "updateDate": 1749827043000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "2fe0b76421356291fac30177ce1041b9e46ea27c",
+              "size": 223579,
+              "path": "mods/create_pattern_schematics-2.0.9.jar",
+              "url": "/mods/1072349/6647183/create_pattern_schematics-2.0.9.jar"
+            },
+            "installed": 22,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1749762000000,
+          "update": 1749762000000,
+          "downloadALL": 2896,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 940673,
+          "name": "EMI Create Schematics",
+          "author": "LiukRast LiukRast",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/emi-create-schematics",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 848546,
+          "pictures": [],
+          "lanName": "emi-create-schematics",
+          "version": {
+            "id": 6500629,
+            "name": "emi_create_schematics-1.0.2",
+            "updateDate": 1746489376000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "faa44c01c9b24553a16974b02631d746cea6fcbf",
+              "size": 50431,
+              "path": "mods/emi_create_schematics-1.0.2.jar",
+              "url": "/mods/940673/6500629/emi_create_schematics-1.0.2.jar"
+            },
+            "installed": 462,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 3294,
+              "name": "EMI",
+              "gameEntityId": 580555,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1746997200000,
+          "update": 1746997200000,
+          "downloadALL": 13285,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1251719,
+          "name": "Create Vibrant Vaults",
+          "author": "ZLT",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-vibrant-vaults",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 1140000,
+          "pictures": [],
+          "lanName": "create-vibrant-vaults",
+          "version": {
+            "id": 6463890,
+            "name": "create_vibrant_vaults-0.3.2",
+            "updateDate": 1745603050000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "d0dbdde6318c4dd4ede1d2c091f1a64896ba872a",
+              "size": 2687938,
+              "path": "mods/create_vibrant_vaults-0.3.2.jar",
+              "url": "/mods/1251719/6463890/create_vibrant_vaults-0.3.2.jar"
+            },
+            "installed": 2,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1745528400000,
+          "update": 1745528400000,
+          "downloadALL": 9,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 328085,
+          "name": "Create",
+          "author": "simibubi",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 25,
+              "name": "redstone",
+              "shortName": "redstone",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 894587,
+          "pictures": [],
+          "lanName": "create",
+          "version": {
+            "id": 6641610,
+            "name": "create-1.21.1-6.0.6",
+            "updateDate": 1749677946000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "07453cffbd20bdc5acc8ea7afb472bf55538958b",
+              "size": 18599196,
+              "path": "mods/create-1.21.1-6.0.6.jar",
+              "url": "/mods/328085/6641610/create-1.21.1-6.0.6.jar"
+            },
+            "installed": 5049,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 3216,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1749589200000,
+          "update": 1749589200000,
+          "downloadALL": 7461988,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 953729,
+          "name": "Create Oxidized",
+          "author": "pyzpre pyzpre",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-oxidized",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 846141,
+          "pictures": [
+            849775,
+            849774
+          ],
+          "lanName": "create-oxidized",
+          "version": {
+            "id": 6286593,
+            "name": "create_oxidized-0.1.3",
+            "updateDate": 1741565332000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "fe93a9575174b4993cf3fb5f2aed4dd4431096ee",
+              "size": 121297,
+              "path": "mods/create_oxidized-0.1.3.jar",
+              "url": "/mods/953729/6286593/create_oxidized-0.1.3.jar"
+            },
+            "installed": 352,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1741554000000,
+          "update": 1741554000000,
+          "downloadALL": 4390,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1061749,
+          "name": "Create Enchantable Machinery",
+          "author": "Cotrin",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-enchantable-machinery",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1102660,
+          "pictures": [
+            899885,
+            899884,
+            899883
+          ],
+          "lanName": "create-enchantable-machinery",
+          "version": {
+            "id": 6681527,
+            "name": "createenchantablemachinery-3.4.1+mc1.21.1-neoforge",
+            "updateDate": 1750568712000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "17c37d5cb6936f599e09ce1835fce296b67990c8",
+              "size": 571173,
+              "path": "mods/createenchantablemachinery-3.4.1+mc1.21.1-neoforge.jar",
+              "url": "/mods/1061749/6681527/createenchantablemachinery-3.4.1+mc1.21.1-neoforge.jar"
+            },
+            "installed": 36,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 1361,
+              "name": "Kotlin for Forge",
+              "gameEntityId": 351264,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1750539600000,
+          "update": 1750539600000,
+          "downloadALL": 6451,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1010066,
+          "name": "Create Structures Arise",
+          "author": "SmartStreamLabs",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-structures-arise",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 898789,
+          "pictures": [
+            1004203,
+            899479,
+            1004208,
+            899481,
+            899478,
+            1026575,
+            1105766,
+            1004205,
+            1004202,
+            1004204,
+            1004192,
+            1085425,
+            1004207,
+            899482,
+            899483,
+            1026574,
+            1004200,
+            1004194,
+            1004196,
+            1004198,
+            1004206,
+            899477,
+            1026573,
+            899480,
+            1004199,
+            1004195,
+            1004201,
+            1004193,
+            1004197
+          ],
+          "lanName": "create-structures-arise",
+          "version": {
+            "id": 6655617,
+            "name": "create_structures_arise-160.33.32-neoforge-1.21.1",
+            "updateDate": 1750019767000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              }
+            ],
+            "metadata": {
+              "sha1": "4a1408c076e0a3e9f4670149ab5f1e7f2cc3323b",
+              "size": 1398676,
+              "path": "mods/create_structures_arise-160.33.32-neoforge-1.21.1.jar",
+              "url": "/mods/1010066/6655617/create_structures_arise-160.33.32-neoforge-1.21.1.jar"
+            },
+            "installed": 661,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 3400,
+              "name": "Create Fabric",
+              "gameEntityId": 624165,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 4822,
+              "name": "Lootr (Forge & NeoForge)",
+              "gameEntityId": 361276,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1749934800000,
+          "update": 1749934800000,
+          "downloadALL": 54207,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1216624,
+          "name": "Create Dragons Plus",
+          "author": "DragonsPlus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-dragons-plus",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 30,
+              "name": "technology_processing",
+              "shortName": "processing",
+              "nesting": 0
+            },
+            {
+              "id": 20,
+              "name": "technology_item_fluid_energy_transport",
+              "shortName": "fluid",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 1074556,
+          "pictures": [],
+          "lanName": "create-dragons-plus",
+          "version": {
+            "id": 6652868,
+            "name": "create-dragons-plus-1.6.1",
+            "updateDate": 1749956891000,
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "2a54a201ad680fd4a3194095d5893f87fcc6de99",
+              "size": 619619,
+              "path": "mods/create-dragons-plus-1.6.1.jar",
+              "url": "/mods/1216624/6652868/create-dragons-plus-1.6.1.jar"
+            },
+            "installed": 633,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1749934800000,
+          "update": 1749934800000,
+          "downloadALL": 4168,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 688768,
+          "name": "Create Enchantment Industry",
+          "author": "dragons_plus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1091514,
+          "pictures": [],
+          "lanName": "create-enchantment-industry",
+          "version": {
+            "id": 6646041,
+            "name": "create-enchantment-industry-2.1.6",
+            "updateDate": 1749796331000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "c5f1fd928508ad0deba00cb1d8d6b89801d95365",
+              "size": 646081,
+              "path": "mods/create-enchantment-industry-2.1.6.jar",
+              "url": "/mods/688768/6646041/create-enchantment-industry-2.1.6.jar"
+            },
+            "installed": 795,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1749934800000,
+          "update": 1749934800000,
+          "downloadALL": 268872,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 820977,
+          "name": "Create Central Kitchen",
+          "author": "dragons_plus",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 1104371,
+          "pictures": [],
+          "lanName": "create-central-kitchen",
+          "version": {
+            "id": 6652803,
+            "name": "create-central-kitchen-2.1.3",
+            "updateDate": 1749953850000,
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "bc08dd8acb2edf24a781129a30bbb88de2cd0a85",
+              "size": 240523,
+              "path": "mods/create-central-kitchen-2.1.3.jar",
+              "url": "/mods/820977/6652803/create-central-kitchen-2.1.3.jar"
+            },
+            "installed": 262,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1749934800000,
+          "update": 1749934800000,
+          "downloadALL": 83328,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1232978,
+          "name": "Create Mobile Packages",
+          "author": "timplay33",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-mobile-packages",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            }
+          ],
+          "picture": 1122204,
+          "pictures": [
+            1122547,
+            1122545,
+            1122552,
+            1122549,
+            1122544,
+            1122546,
+            1122550,
+            1122551,
+            1122548
+          ],
+          "lanName": "create-mobile-packages",
+          "version": {
+            "id": 6631691,
+            "name": "create_mobile_packages-1.21.1-0.5.2",
+            "updateDate": 1749430450000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "0f44e8a08517c66e22df5aea87db6a552ce712ea",
+              "size": 280871,
+              "path": "mods/create_mobile_packages-1.21.1-0.5.2.jar",
+              "url": "/mods/1232978/6631691/create_mobile_packages-1.21.1-0.5.2.jar"
+            },
+            "installed": 84,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 13854,
+              "name": "Create Factory Logistics",
+              "gameEntityId": 1218807,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1750712400000,
+          "update": 1750712400000,
+          "downloadALL": 971,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 466792,
+          "name": "Create Stuff 'N Additions",
+          "author": "furti_two",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1012597,
+          "pictures": [
+            218900
+          ],
+          "lanName": "create-stuff-additions",
+          "version": {
+            "id": 6448012,
+            "name": "create-stuff-additions1.21.1_v2.1.0e",
+            "updateDate": 1745242978000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "5de330acd44af9e09430a7710687ad176dabf1e2",
+              "size": 1318700,
+              "path": "mods/create-stuff-additions1.21.1_v2.1.0e.jar",
+              "url": "/mods/466792/6448012/create-stuff-additions1.21.1_v2.1.0e.jar"
+            },
+            "installed": 5999,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1745182800000,
+          "update": 1745182800000,
+          "downloadALL": 979383,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 439890,
+          "name": "Create Crafts & Additions",
+          "author": "mrhminer",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 20,
+              "name": "technology_item_fluid_energy_transport",
+              "shortName": "fluid",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            },
+            {
+              "id": 12,
+              "name": "technology_energy",
+              "shortName": "energy",
+              "nesting": 0
+            }
+          ],
+          "picture": 821172,
+          "pictures": [
+            218287,
+            513963,
+            254131,
+            287815,
+            376337,
+            207637,
+            426309
+          ],
+          "lanName": "createaddition",
+          "version": {
+            "id": 6445614,
+            "name": "createaddition-1.4.2",
+            "updateDate": 1745183747000,
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "dbb2a6d5cf509da8c460d1ffe57db06c5272070f",
+              "size": 1634683,
+              "path": "mods/createaddition-1.4.2.jar",
+              "url": "/mods/439890/6445614/createaddition-1.4.2.jar"
+            },
+            "installed": 7186,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 286,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1748379600000,
+          "update": 1748379600000,
+          "downloadALL": 1704566,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 655608,
+          "name": "Create Jetpack",
+          "author": "possible_triangle",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-jetpack",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 1138396,
+          "pictures": [
+            526693,
+            526692,
+            526691
+          ],
+          "lanName": "create-jetpack",
+          "version": {
+            "id": 6606247,
+            "name": "create_jetpack-forge-5.1.0",
+            "updateDate": 1748807731000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 53,
+                "name": "1.21.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "f48d5e7a3779b9b8dce22c32f14eb7a37389cb7c",
+              "size": 2180134,
+              "path": "mods/create_jetpack-forge-5.1.0.jar",
+              "url": "/mods/655608/6606247/create_jetpack-forge-5.1.0.jar"
+            },
+            "installed": 350,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 769,
+              "name": "Create",
+              "gameEntityId": 328085,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 1361,
+              "name": "Kotlin for Forge",
+              "gameEntityId": 351264,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1748725200000,
+          "update": 1748725200000,
+          "downloadALL": 109036,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
           "id": 968398,
           "name": "Create Copycats+",
           "author": "Lysine",
@@ -5898,17 +6197,17 @@
           ],
           "picture": 800336,
           "pictures": [
-            1021438,
-            1021437,
-            1021435,
+            1021436,
             1021439,
-            1021436
+            1021435,
+            1021438,
+            1021437
           ],
           "lanName": "copycats",
           "version": {
-            "id": 6601966,
-            "name": "copycats-3.0.1+mc.1.21.1-neoforge",
-            "updateDate": 1748704873000,
+            "id": 6650033,
+            "name": "copycats-3.0.2+mc.1.21.1-neoforge",
+            "updateDate": 1749891947000,
             "type": "release",
             "gameVersionsDTO": [
               {
@@ -5917,11 +6216,12 @@
               }
             ],
             "metadata": {
-              "sha1": "6b55fd8d430af1acdb6f5b55e9a34c27552b712d",
-              "size": 1785616,
-              "path": "mods/copycats-3.0.1+mc.1.21.1-neoforge.jar",
-              "url": "/mods/968398/6601966/copycats-3.0.1+mc.1.21.1-neoforge.jar"
+              "sha1": "49344745546ad3ee7c3bfeb8f846abdffcf4e5a4",
+              "size": 1790416,
+              "path": "mods/copycats-3.0.2+mc.1.21.1-neoforge.jar",
+              "url": "/mods/968398/6650033/copycats-3.0.2+mc.1.21.1-neoforge.jar"
             },
+            "installed": 820,
             "available": false,
             "minecraftVersionTypes": [
               {
@@ -5953,9 +6253,9 @@
             "id": 53,
             "name": "1.21.1"
           },
-          "updated": 1741467600000,
-          "update": 1741467600000,
-          "downloadALL": 171824,
+          "updated": 1749848400000,
+          "update": 1749848400000,
+          "downloadALL": 184928,
           "available": true,
           "parser": true,
           "totalComments": 0
@@ -5983,19 +6283,19 @@
           ],
           "picture": 800691,
           "pictures": [
-            639051,
-            639048,
             639049,
-            639050,
+            639048,
             639052,
-            602228,
-            602229
+            639050,
+            602229,
+            639051,
+            602228
           ],
           "lanName": "create-connected",
           "version": {
-            "id": 6629575,
-            "name": "create_connected-1.1.4-mc1.21.1",
-            "updateDate": 1749389079000,
+            "id": 6685698,
+            "name": "create_connected-1.1.6-mc1.21.1",
+            "updateDate": 1750653715000,
             "type": "release",
             "gameVersionsDTO": [
               {
@@ -6004,11 +6304,12 @@
               }
             ],
             "metadata": {
-              "sha1": "77f174a68122c476665e00e93e72549ebfa9a09a",
-              "size": 6553014,
-              "path": "mods/create_connected-1.1.4-mc1.21.1.jar",
-              "url": "/mods/947914/6629575/create_connected-1.1.4-mc1.21.1.jar"
+              "sha1": "f52b659341fd3f53633d89dedc37c8cbea0f69ad",
+              "size": 6550539,
+              "path": "mods/create_connected-1.1.6-mc1.21.1.jar",
+              "url": "/mods/947914/6685698/create_connected-1.1.6-mc1.21.1.jar"
             },
+            "installed": 242,
             "available": false,
             "minecraftVersionTypes": [
               {
@@ -6040,9 +6341,9 @@
             "id": 53,
             "name": "1.21.1"
           },
-          "updated": 1749330000000,
-          "update": 1749330000000,
-          "downloadALL": 174735,
+          "updated": 1750626000000,
+          "update": 1750626000000,
+          "downloadALL": 187013,
           "available": true,
           "parser": true,
           "totalComments": 0
@@ -6068,35 +6369,36 @@
               "nesting": 0
             }
           ],
-          "picture": 800591,
+          "picture": 1137505,
           "pictures": [
-            604454,
             604452,
             604453,
+            604454,
             604455
           ],
           "lanName": "create-framed",
           "version": {
-            "id": 6619543,
-            "name": "createframed-1.21.1-1.6.6",
-            "updateDate": 1749172155000,
+            "id": 6669600,
+            "name": "createframed-1.21.1-1.6.7",
+            "updateDate": 1750306253000,
             "type": "release",
             "gameVersionsDTO": [
               {
-                "id": 52,
-                "name": "1.21"
-              },
-              {
                 "id": 53,
                 "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
               }
             ],
             "metadata": {
-              "sha1": "26d5f1cb4f5dfe64b0dadc2696bbd377521f0877",
-              "size": 1626316,
-              "path": "mods/createframed-1.21.1-1.6.6.jar",
-              "url": "/mods/953126/6619543/createframed-1.21.1-1.6.6.jar"
+              "sha1": "c5217a438b6f1c9f7f41f4bd7512f6404e7c9018",
+              "size": 1650586,
+              "path": "mods/createframed-1.21.1-1.6.7.jar",
+              "url": "/mods/953126/6669600/createframed-1.21.1-1.6.7.jar"
             },
+            "installed": 61,
             "available": false,
             "minecraftVersionTypes": [
               {
@@ -6121,9 +6423,9 @@
             "id": 53,
             "name": "1.21.1"
           },
-          "updated": 1747688400000,
-          "update": 1747688400000,
-          "downloadALL": 25402,
+          "updated": 1750280400000,
+          "update": 1750280400000,
+          "downloadALL": 26435,
           "available": true,
           "parser": true,
           "totalComments": 0
